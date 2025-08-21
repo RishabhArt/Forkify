@@ -3,9 +3,9 @@ Forkify – Recipe Finder 🍴
 A modern recipe web application built with React, Vite, and Tailwind CSS. Users can search thousands of recipes, adjust servings dynamically, bookmark favorites, and even add their own custom recipes — all inside a clean and responsive interface.
 
 🔗 Live Demo
-
+ https://rishabhart.github.io/Forkify/
 👉 View Live Project
-
+ https://rishabhart.github.io/Forkify/
 
 
 🚀 Features
@@ -38,8 +38,8 @@ Local Storage API 💾
 
 Clone the repo:
 
-git clone https://github.com/RishabhArt/forkify.git
-cd forkify
+git clone https://github.com/RishabhArt/Forkify.git
+cd Forkify
 
 
 Install dependencies:
