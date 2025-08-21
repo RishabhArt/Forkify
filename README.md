@@ -1,12 +1,64 @@
-# React + Vite
+Forkify – Recipe Finder 🍴
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern recipe web application built with React, Vite, and Tailwind CSS. Users can search thousands of recipes, adjust servings dynamically, bookmark favorites, and even add their own custom recipes — all inside a clean and responsive interface.
 
-Currently, two official plugins are available:
+🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 View Live Project
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🚀 Features
+
+🔍 Recipe Search – Find recipes quickly by keyword.
+
+🍽️ Dynamic Servings – Ingredient quantities scale automatically.
+
+📌 Bookmarks – Save favorite recipes for later.
+
+➕ Custom Recipes – Add and manage your own recipes.
+
+🌙 Theme Toggle – Switch between light and dark mode.
+
+📱 Responsive Design – Optimized for desktop & mobile.
+
+💾 Local Storage – Bookmarks persist after refresh.
+
+🛠️ Tech Stack
+
+React + Vite ⚛️
+
+Tailwind CSS 🎨
+
+Lucide React Icons ✨
+
+Local Storage API 💾
+
+⚡ Getting Started
+
+Clone the repo:
+
+git clone https://github.com/RishabhArt/forkify.git
+cd forkify
+
+
+Install dependencies:
+
+npm install
+
+
+Run development server:
+
+npm run dev
+
+
+Build for production:
+
+npm run build
+npm run preview
+
+👨‍💻 Author
+
+Developed by Rishabh 🚀
+
+GitHub: @RishabhArt
